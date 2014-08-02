@@ -32,7 +32,6 @@ PERMESINAN & CVT
 * Tips Perawatan Karburator Vario di Musim Hujan
 * Upgrade HV
 
-___
 
 PERLISTRIKAN & PERLAMPUAN
 -------------------------
@@ -55,7 +54,6 @@ PERLISTRIKAN & PERLAMPUAN
 * Wire Diagram Honda Vario 110
 * Wire Diagram Vario 125
 
-___
 
 SEPUTAR KNALPOT
 ---------------
@@ -65,15 +63,13 @@ SEPUTAR KNALPOT
 * Review Knalpot DBS
 * Rumus Buat Leher Knalpot 
 * Tips Modif Bracket Knalpot Password
- 
-___
+
 
 VELG & BAN
 ----------
 * Ban Ideal untuk Velg Standar Vario
 * Ukuran Ban Ideal di Velg 17"
 
-___
 
 LAIN-LAIN
 ---------
@@ -112,7 +108,6 @@ LAIN-LAIN
 * Tips Pemeliharaan Ban
 * Tutorial Bongkar/Pasang Shockbreaker Belakang
 
-___
 
 TROUBLESHOOTING
 ----------------
